@@ -2,6 +2,7 @@
 
 # Modúlo 1
 
+
 ## O que eu aprendi sobre os assuntos que foram abordados nesse módulo?
 
 ### Soft skills e hard skills
@@ -83,9 +84,9 @@
 
 - **Lógica de programação**: Sinto que evolui muito em questão da lógica de programação, além de ter consolidado alguns conhecimentos básicos que eu já tinha.
 
+
 # Modúlo 2
 
-# README
 
 ## O que eu já sei sobre os assuntos que serão abordados
 
